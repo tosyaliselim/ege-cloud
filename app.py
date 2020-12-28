@@ -4,7 +4,7 @@ from flask import Flask, stream_with_context, request, Response, flash, render_t
 from database import Database
 
 app = Flask(__name__)
-app.secret_key = '!$w4wW~o|~8OVFX'  # !!change this with random key!!
+app.secret_key = '!$TOS37~o|~37Sel37'  # !!change this with random key!!
 
 
 def stream_template(template_name, **context):

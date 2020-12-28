@@ -2,7 +2,7 @@
     "database": {
         "host": "stpostgres.postgres.database.azure.com",
         "dbname": "postgres",
-        "username": "selim@stpostgres",
+        "user": "selim@stpostgres",
         "password": "Tosyali97*",
         "ssl": "require"
     }
